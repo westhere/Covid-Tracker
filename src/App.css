@@ -1,0 +1,24 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+.no-gutter{
+  padding:0px;
+}
+.countrySelector{
+
+}
+.countrySelector .form-group{
+  padding-top:10px;
+  margin-bottom:0px;
+}
+
+.countrySelector__label{
+  font-weight:600;
+  margin-right:10px;
+}
+.jumbotron{
+  background-image: url(https://corona.lmao.ninja/assets/img/rona.jpg);
+  color:white;
+  height: 250px;
+}
